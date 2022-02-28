@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a clergy-man in the city, to his friend in the country containing his reasons for not reading the Declaration.</title>
+            <author>Halifax, George Savile, Marquis of, 1633-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93136</idno>
+            <idno type="STC">Wing S3294C</idno>
+            <idno type="STC">ESTC R202491</idno>
+            <idno type="EEBO-CITATION">99895216</idno>
+            <idno type="PROQUEST">99895216</idno>
+            <idno type="VID">152730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a clergy-man in the city, to his friend in the country containing his reasons for not reading the Declaration.</title>
+                  <author>Halifax, George Savile, Marquis of, 1633-1695.</author>
+                  <author>Sherlock, William, 1641?-1707, attributed name.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The clergy-man in the city = George Savile, Marquis of Halifax. Sometimes also attributed to William Sherlock.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Dated at end: May 22. 1688.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1685-1688 : James II). --  Proclamations. 1687-04-04 --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+               <term>Liberty of conscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:152730:1" rendition="simple:additions"/>
+            <head>A LETTER from a Clergy-man in the City, to his Friend in the Country, Containing his Reaſons For not Reading the Declaration.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Do not wonder at your concern for finding an Order of Council publiſhed in the <hi>Gazette</hi> for Reading the King's Declaration for Liberty of Con<g ref="char:EOLhyphen"/>ſcience in all Churches and Chappels in this Kingdom. You deſire to know my Thoughts about it, and I ſhall freely tell them; for this is not a time to be reſerved.</p>
+            <p>Our Enemies who have given our Gracious King this Counſel againſt us have taken the moſt effectual way not only to ruine us, but to make us appear the Inſtruments of our own Ruine, that what courſe ſoever we take, we ſhall be undone; and one ſide or other will conclude that we have undone our ſelves, and fall like fools.</p>
+            <p>To loſe our Livings and Preferments, nay our Liber<g ref="char:EOLhyphen"/>ties and Lives in a plain and direct oppoſition to Po<g ref="char:EOLhyphen"/>pery, as ſuppoſe for refuſing to read Maſs in our Churches, or to ſwear to the <hi>Trent</hi>-Creed, is an honor<g ref="char:EOLhyphen"/>able way of falling, and has the divine comforts of ſuffering for Chriſt and his Religion; and I hope there is none of us but can chearfully ſubmit to the will of God in it. But this is not our preſent Caſe; to read the Declaration, is not to read the Maſs, nor to profeſs the <hi>Romiſh</hi> Faith; and therefore ſome will judge that there is no hurt in reading it, and that to ſuffer for ſuch a Refuſal, is not to fall like Confeſſors, but to ſuffer as Criminals for diſobeying the lawful Commands of our Prince: but yet we judge, and we have the concurring Opinions of all the Nobility and Gentry with us, who have already ſuffered in this Cauſe, that to take away the Teſt and Penal Laws at this time, is but one ſtep from the introducing of Popery; and therefore to read ſuch a Declaration in our Churches, though it do not immediately bring Popery in, yet it ſets open our Church doors for it, and then it will take its own time to enter: So that ſhould we comply with this Order, all good Pro<g ref="char:EOLhyphen"/>teſtants would deſpiſe and hate us, and then we may be eaſily cruſhed, and ſhall ſoon fall with great diſ<g ref="char:EOLhyphen"/>honour, and without any pity. This is the difficulty of our Caſe; we ſhall be cenſured on both ſides, but with this difference: We ſhall fail a little ſooner by not reading the Declaration, if our Gracious Prince reſent this as an act of obſtinate and peeviſh or facti<g ref="char:EOLhyphen"/>ous Diſobedience, as our Enemies will be ſure to re<g ref="char:EOLhyphen"/>preſent it to him; we ſhall as certainly fall, and not long after, if we do read it, and then we ſhall fall, unpitied and deſpiſed, and it may be with the Curſes of the Nation, whom we have ruined by our Compli<g ref="char:EOLhyphen"/>ance; and this is the way never to riſe more: And may I ſuffer all that can be ſuffered in this World, rather than contribute to the final Ruine of the beſt Church in the World.</p>
+            <p>Let us then examine this matter impartially, as thoſe who have no mind either to ruine themſelves, or to ruine the Church: I ſuppoſe no Miniſter of the Church of <hi>England</hi> can give his conſent to the De<g ref="char:EOLhyphen"/>claration. Let us then conſider whether reading the Declaration in our Churches be not an interpretative Conſent, and will not with great reaſon be inter<g ref="char:EOLhyphen"/>preted to be ſo: For,</p>
+            <p>
+               <hi>First,</hi> By our Law all Miniſterial Officers are ac<g ref="char:EOLhyphen"/>countable for their Actions: The Authority of Su<g ref="char:EOLhyphen"/>periours, though of the King himſelf, cannot justifie inferiour Officers, much leſs the Miniſters of State, if they ſhould execute any illegal Commands; which ſhews, that our Law does not look upon the Mini<g ref="char:EOLhyphen"/>ſters of Church or State to be meer Machines and Tools to be managed wholly by the Will of our Su<g ref="char:EOLhyphen"/>periours, without exerciſing any Act of Judgment or Reaſon themſelves; for then inferior Miniſters were no more puniſhable than the Horſes are which draw an innocent man to <hi>Tyburn:</hi> and if inferiour Miniſters are puniſhable, then our Laws ſuppoſe that what we do in obedience to Superiors, we make our own Act by doing it, and I ſuppoſe that ſignifies our Con<g ref="char:EOLhyphen"/>ſent in the eye of the Law, to what we do. It is a Maxim in our Law, <hi>That the King can do no wrong;</hi> and there<g ref="char:EOLhyphen"/>fore if any wrong be done, the Crime and Guilt is the Miniſter's who does it: for the Laws are the King's publick Will, and therefore he is never ſuppoſed to command any thing contrary to Law; nor is any Mi<g ref="char:EOLhyphen"/>niſter, who does an illegal Action, allowed to pre<g ref="char:EOLhyphen"/>tend the King's Command and Authority for it: and and yet this is the only Reaſon I know, why we muſt not obey a Prince againſt the Laws of the Land, or the Laws of God, becauſe what we do, let the Au<g ref="char:EOLhyphen"/>thority be what it will that commands it, becomes our own Act, and we are reſponſible for it; and then as I obſerved before, it muſt imply our own Conſent.</p>
+            <p>
+               <hi>Secondly,</hi> The Miniſters of Religion have a greater tye and obligation than this, becauſe they have the care and conduct of mens Souls, and therefore are bound to take care that what they publiſh in their Churches, be neither contrary to the Laws of the Land, nor to the good of the Church. For the Mi<g ref="char:EOLhyphen"/>niſters of Religion are not lookt upon as common Cryers, but what they Read, they are ſuppoſed to recommend too, tho they do no more than Read it; and therefore to read any thing in the Church, which I do not conſent to and approve, nay which I think prejudical to Religion, and the Church of God, as well as contrary to the Laws of the Land, is to Miſ<g ref="char:EOLhyphen"/>guide my People, and to Diſſemble with God and Men; becauſe it is preſum'd, that I neither do, nor
+<pb n="2" facs="tcp:152730:2"/>ought to read any thing in the Church, which I do not in ſome degree approve. Indeed, let mens pri<g ref="char:EOLhyphen"/>vate opinions be what they will, in the nature of the thing, he that Reads ſuch a Declaration to his Peo<g ref="char:EOLhyphen"/>ple, teaches them by it: For is not Reading Teach<g ref="char:EOLhyphen"/>ing? Suppoſe then I do not conſent to what I read, yet I conſent to teach my People what I read: and herein is the Evil of it; for it may be it were no fault to conſent to the Declaration, but if I conſent to teach my People what I do not conſent to, my ſelf, I am ſure that is a great one: And he who can diſ<g ref="char:EOLhyphen"/>tinguiſh between conſenting to read the Declaration, and conſenting to teach the People by the Declara<g ref="char:EOLhyphen"/>tion, when reading the Declaration is teaching it, has a very ſubtile diſtinguiſhing-Conſcience. Now if conſenting to read the Declaration be a conſent to teach it my People, then the natural Interpretation of Reading the Declaration, is, That he who Reads it, in ſuch a ſolemn teaching-manner, Approves it. If this be not ſo, I deſire to know, why I may not read an Homily for Tranſubſtantiation, or Invoca<g ref="char:EOLhyphen"/>tion of Saints, or the Worſhip of Images, if the King ſends me ſuch good Catholick Homilies, and com<g ref="char:EOLhyphen"/>mands me to read them? And thus we may inſtruct our People in all the points of Popery, and recom<g ref="char:EOLhyphen"/>mend it to them with all the Sophiſtry and artificial Inſinuations, in obedience to the King, with a very good Conſcience, becauſe without our conſent. If it be ſaid, this would be a contradiction to the Do<g ref="char:EOLhyphen"/>ctrine of our Church by Law eſtabliſhed; ſo I take the Declaration to be: And if we may read the De<g ref="char:EOLhyphen"/>claration contrary to Law, becauſe it does not im<g ref="char:EOLhyphen"/>ply our conſent to it; ſo we may Popiſh Homilies, for the bear reading them will not imply our conſent, no more than the reading the Declaration does: But whether I conſent to the Doctrine or no, it is cer<g ref="char:EOLhyphen"/>tain I conſent to teach my People this Doctrine; and it is to be conſidered, whether an honeſt man can do this.</p>
+            <p>
+               <hi>Thirdly,</hi> I ſuppoſe no man will doubt, but the King intends, that our reading the Declaration ſhould ſignifie to the Nation, our Conſent and Approbation of it; for the Declaration does not want Publiſhing, for it is ſufficiently known already: but our reading it in our Churches muſt ſerve inſtead of Addreſſes of Thanks, which the Clergy general refuſed, though it was only to thank the King for His Gracious Pro<g ref="char:EOLhyphen"/>miſes renewed to the Church of <hi>England,</hi> in his De<g ref="char:EOLhyphen"/>claration, which was much more innocent, than to publiſh the Declaration it ſelf in our Churches: This would perſwade one, that the King thinks our read<g ref="char:EOLhyphen"/>ing the Declaration, to ſignifie our Conſent, and that the People will think it to be ſo. And he that can ſatisfie his Conſcience, to do an action without con<g ref="char:EOLhyphen"/>ſent, which the nature of the Thing, the Deſign, and intention of the Command, and the Senſe of the Peo<g ref="char:EOLhyphen"/>ple expound to be a Conſent, may, I think, as well ſatisfie himſelf with Equivocations and mental Re<g ref="char:EOLhyphen"/>ſervations.</p>
+            <p>There are two things to be anſwered to this which muſt be conſidered.</p>
+            <p n="1">I. That the People underſtand our Minds, and ſeo that this is matter of Force upon us, and meer Obe<g ref="char:EOLhyphen"/>dience to the King. To which I anſwer,</p>
+            <p n="1">1. Poſſibly the People do underſtand that the mat<g ref="char:EOLhyphen"/>ter of the Declaration is againſt our Principles: But is this any excuſe, that we read that, and by reading recommend that to them, which is againſt our own Conſciences and Judgments? Reading the Declaration would be no Fault at all, but our Duty, when the King commands it, did we approve of the matter of it: but to conſent to teach our People ſuch Do<g ref="char:EOLhyphen"/>ctrines as we think contrary to the Laws of God, or the Laws of the Land, does not leſſen but aggra<g ref="char:EOLhyphen"/>vate the Fault, and People muſt be very good na<g ref="char:EOLhyphen"/>tured to think this an Excuſe.</p>
+            <p n="2">2. It is not likely that all the People will be of a mind in this matter, ſome may excuſe it, others, and thoſe it may be the moſt, the beſt, and the wiſeſt men, well condemn us for it, and then how ſhall we juſti<g ref="char:EOLhyphen"/>fie our ſelves againſt their Cenſures? when the world will be divided in their Opinions, the plain way is certainly the beſt, to do what we can to juſtifie our ſelves, and then let men judge as they pleaſe. No men in <hi>England</hi> will be pleaſed with our Reading the Declaration, but thoſe who hope to make great ad<g ref="char:EOLhyphen"/>vantage of it againſt us, and againſt our Church and Religion. others will ſeverely condemn us for it, and cenſure us as falſe to our Religion, and as Betrayers both of Church and State: and beſides that, it does not become a Miniſter of Religion, to do any thing, which in the opinion of the moſt charitable men can only be excuſed; for what needs an excuſe, is either a fault or looks very like one; beſides this I ſay, I will not truſt mens Charity; thoſe who have ſuffered them<g ref="char:EOLhyphen"/>ſelves in this Cauſe, will not excuſe us for fear of ſuf<g ref="char:EOLhyphen"/>fering; thoſe who are inclined to excuſe us now, will not do ſo when they conſider the thing better, and come to feel the ill conſequences of it: when our Enemies open their eyes, and tell them what our Rea<g ref="char:EOLhyphen"/>ding the Declaration ſignified, which they will then tell us we ought to have ſeen before, though they were not bound to ſee it; for we are to guide and inſtruct them, not they us.</p>
+            <p n="2">II. Others therefore think, that when we read the Declaration, we ſhould publickly profeſs, that it is not our own judgment, but that we only read it in obedience to the King; and then our reading it can<g ref="char:EOLhyphen"/>not imply our conſent to it. Now this is only <hi>Prote<g ref="char:EOLhyphen"/>ſtatio contra factum,</hi> which all people will laugh at, and ſcorn us for: for ſuch a ſolemn reading it in the time of Divine Service, when all men ought
+<pb n="3" facs="tcp:152730:2"/>to be moſt grave and ſerious, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from diſſem<g ref="char:EOLhyphen"/>bling with God or Men, does in the nature of the thing imply our approbation; and ſhould we declare the contrary, when we read it, what ſhall we ſay to thoſe who ask us, Why then do you read it? But let thoſe who have a mind to try this way, which, for my part, I take to be a greater and more unjuſti<g ref="char:EOLhyphen"/>fiable provocation of the King, than not to read it, and, I ſuppoſe, thoſe who do not read it, will be thought plainer and honeſter men, and will eſcape as well as thoſe who read it and proteſt againſt it: and yet nothing leſs than an expreſs Proteſtation a<g ref="char:EOLhyphen"/>gainſt it will ſalve this matter; for only to ſay, they read it meerly in obedience to the King, does not ex<g ref="char:EOLhyphen"/>preſs their diſſent. it ſignifies indeed, that they would not have read it, if the King had not com<g ref="char:EOLhyphen"/>manded it; but theſe words do not ſignifie that they diſapprove of the Declaration, when their reading it, though only in obedience to the King, ſignifies their approbation of it, as much as actions can ſignifie a conſent: let us call to mind how it fared with thoſe in King <hi>Charles</hi> the Firſt's Reign, who read the <hi>Book of Sports,</hi> as it was called, and then preached againſt it.</p>
+            <p>To return then to our Argument; If reading the Declaration in our Churches be in the nature of the action, in the intention of the command, in the opi<g ref="char:EOLhyphen"/>nion of the People, an interpretative conſent to it, I think my ſelf bound in conſcience not to read it, becauſe I am bound in conſcience not to approve it.</p>
+            <p>It is againſt the Conſtitution of the Church of <hi>England,</hi> which is eſtabliſhed by Law, and to which I have ſubſcribed, and therefore am bound in con<g ref="char:EOLhyphen"/>ſcience to teach nothing contrary to it, while this ob<g ref="char:EOLhyphen"/>ligation laſts:</p>
+            <p>It is to teach an unlimited and univerſal Tolerati<g ref="char:EOLhyphen"/>on, which the Parliament in 72: declared illegal, and which has been condemned by the Chriſtian Church in all Ages.</p>
+            <p>It is to teach my People, that they need never come to Church more, but have my free leave, as they have the King's, to go to a Conventicle, or to Maſs:</p>
+            <p>It is to teach the diſpenſing Power, which alters, what has been formerly thought; the whole Conſti<g ref="char:EOLhyphen"/>tution of this Church and Kingdom: which we dare not do, till we have the Authority of Parliament for it:</p>
+            <p>It is to recommend to our People, the choice of ſuch perſons to ſit in Parliament, as ſhall take away the <hi>Teſt</hi> and <hi>Penal Laws,</hi> which moſt of the Nobility and Gentry of the Nation have declared their judg<g ref="char:EOLhyphen"/>ment againſt.</p>
+            <p>It is to condemn all thoſe great and worthy Pa<g ref="char:EOLhyphen"/>triots of their Country, who forfeited the deareſt thing in the world to them, next a good Conſcience, <hi>viz.</hi> The favour of their Prince, and a great many honourable and profitable Employments with it, ra<g ref="char:EOLhyphen"/>ther than conſent to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of taking away the <hi>Test</hi> and <hi>Penal</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which they apprehend de<g ref="char:EOLhyphen"/>ſtructive to the <hi>Church of England</hi> and the <hi>Proteſtant Religion;</hi> and he who can in conſcience do all this, I think need ſcruple nothing.</p>
+            <p>For let us conſider further, what the effects and conſequences of our reading the Declaration are like<g ref="char:EOLhyphen"/>ly to be, and I think they are matter of Conſcience too, when they are evident and apparent.</p>
+            <p>This will certainly render our Perſons and Mini<g ref="char:EOLhyphen"/>ſtry infinitely contemptible, which is againſt that Apoſtolick Canon, <hi>Let no man diſpiſe thee,</hi> Titus 2.15. That is, ſo to behave himſelf in his Miniſterial Office, as not to fall under contempt; and therefore this obliges the Conſcience, not to make our ſelves <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to render our Miniſtry, our Coun<g ref="char:EOLhyphen"/>ſels, Exhortations, Preaching, Writing; of no effect, which is a thouſand times worſe than being ſilenced: Our Sufferings will Preach more effectually to the People, when we cannot Speak to them: but he who for Fear or Cowardize, or the Love of this World, betrays his Church and Religion by undue compli<g ref="char:EOLhyphen"/>ances, and will certainly be thought to do ſo, may continue to Preach, but to no purpoſe; and when we have rendred our ſelves ridiculous and contemp<g ref="char:EOLhyphen"/>tible, we ſhall then quickly fall, and fall unpitied.</p>
+            <p>There is nothing will ſo effectually tend to the fi<g ref="char:EOLhyphen"/>nal ruine of the Church of <hi>England,</hi> becauſe our Reading the Declaration will diſcourage, or provoke, or miſguide, all the Friends the Church of <hi>England</hi> has: can we blame any man for not preſerving the Laws and the Religion of our Church and Nation, when we our ſelves will venture nothing for it? can we blame any man conſenting to Repeal the <hi>Test</hi> and <hi>Penal Laws,</hi> when we recommend it to them by reading the Declaration? have we not reaſon to ex<g ref="char:EOLhyphen"/>pect that the Nobility and Gentry, who have already ſuffered in this Cauſe, when they hear themſelves condemned for it in all the Churches of <hi>England,</hi> will think it time to mend ſuch a fault, and reco<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e them<g ref="char:EOLhyphen"/>ſelves to their Prince? and if our Church fall this way, is there any reaſon to expect that it ſhould ever riſe again? Theſe Conſequences are almoſt as evident as Demonſtrations, and let it be what it will in it ſelf, which I foreſee will deſtroy the <hi>Church of England</hi> and the <hi>Protestant Religion</hi> and <hi>Intereſt,</hi> I think I ought to make as much conſcience of doing it, as doing the moſt immoral action in nature.</p>
+            <p>To ſay, that theſe miſchievous conſequences are not abſolutely neceſſary, and therefore do not affect the Conſcience, becauſe we are not certain they will follow, is a very mean Objection; Moral Actions indeed have not ſuch neceſſary conſequences, as Na<g ref="char:EOLhyphen"/>tural Cauſes have neceſſary effects, becauſe no Moral Cauſes act neceſſarily. reading the Declaration will
+<pb n="4" facs="tcp:152730:3"/>not as neceſſarily deſtroy the Church of <hi>England,</hi> as fire burns Wood, but if the conſequence be plain and evident, the moſt likely thing that can happen, if it be unreaſonable to expect any other, if it be what is plainly intended and deſigned, either I muſt never have any regard to Moral Conſequences of my Acti<g ref="char:EOLhyphen"/>ons, or if ever they are to be conſidered, they are in this caſe.</p>
+            <p>Why are the Nobility and Gentry ſo extreamly a<g ref="char:EOLhyphen"/>verſe to the Repeal of the Teſt and Penal Laws? why do they forfeit the King's Favour, and their Honourable Stations, rather than comply with it? if you ſay that this tends to deſtroy the Church of <hi>England</hi> and the Proteſtant Religion, I ask whether this be the neceſſary conſequence of it? whether the King cannot keep his promiſe to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> if the Teſt and Penal Laws be Repealed? we cannot ſay, but this may be: and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Nation does not think fit to try it; and we comme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d thoſe great men who deny it; and if the ſame queſtions were put to us, we think we ought in Conſcience to deny them our ſelves. and are there not as high probabi<g ref="char:EOLhyphen"/>lities, that our Reading the Declaration will promote the Repeal of the Teſt and Penal Laws, as that ſuch a Repeal will ruine our Conſtitution, and bring in Popery upon us? Is it not as probable, that ſuch a Complyance in us, will diſoblige all the Nobility and Gentry, who have hitherto been firm to us, as that when the power of the Nation is put into Popiſh <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of ſuch Teſts and Laws, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prieſts and Jeſuits may find ſome <hi>ſalve</hi> for the King's Conſcience, and perſwade him to forget his promiſe to the Church of <hi>England?</hi> and if the probable <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll conſequences of Repealing the Teſt and Penal Laws, be a good reaſon not to comply with it, I cannot ſee but that the as probable ill conſequences of Reading the Declaration, is as good a reaſon not to read it.</p>
+            <p>The moſt material Objection is, that the Diſſenters, whom we ought not to provoke, will expound our not Reading it, to be the effect of a Perſecuting Spi<g ref="char:EOLhyphen"/>rit: Now I wonder men ſhould lay any weight on this, who will not allow the moſt probable conſe<g ref="char:EOLhyphen"/>quences of our Actions, to have any influence upon Conſcience: for if we muſt compare conſequences, to diſoblige all the Nobility and Gentry by Reading it, is likely to be much more fatal, than to anger the Diſſenters: and it is more likely, and there is much more reaſon for it, that one ſhould be offended than the other: For the Diſſenters who are Wiſe and conſidering, are ſenſible of the ſnares themſelves, and though they deſire Eaſe and Liberty, they are not willing to have it with ſuch apparent hazard of Church and State: I am ſure that though we were never ſo deſirous that they might have their Liberty, (and when there is opportunity of ſhewing our in<g ref="char:EOLhyphen"/>clinations without danger, they may find that we are not ſuch perſecutors as we are repreſented) yet we canot conſent that they ſhould have it this way, which they will find the deareſt Liberty that ever was granted.</p>
+            <p>This, Sir, is our Caſe in ſhort, the Difficulties are great on both ſides, and therefore now if ever, we ought to beſiege Heaven with our Prayers, for Wiſ<g ref="char:EOLhyphen"/>dom, and Counſel, and Courage; that God would protect his Church and Reformed Chriſtianity, a<g ref="char:EOLhyphen"/>gainſt all the devices of their Enemies: Which is the daily and hearty Paryer of,</p>
+            <closer>
+               <signed>SIR, <hi>Your Friend and Brother,</hi>
+               </signed>
+               <date>
+                  <hi>May</hi> 22. 1688.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>I</hi> Have just now ſeen <hi>H. Care</hi>'s Paper, called, <hi>The Publick Occurrences,</hi> which came out to day, and cannot but ſet you right as to his News about the Reading of the Declaration on <hi>Sunday:</hi> He tells you, <q>That <hi>ſeve<g ref="char:EOLhyphen"/>ral Divines</hi> of the Church of <hi>England,</hi> in and abou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this City, eminent for their Piety and Moderation, did yesterday Read his Majeſty's late Declaration in their Churches, according to the Order in that behalf; but ſome (to the great ſurprize of their Pariſhioners), were pleaſed to <hi>a<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ine it.</hi>
+               </q> You in the Country are from this Account to believe, that it was Read here by the generallity of the Clergy, and by the Eminent Men among them. But I can, and do aſſure you, that this is one of the moſt impudent Lyes that ever was printed: For as to this City which hath above a Hundred Pariſhes in it, it was Read only in Four or Five Churches; all the reſt, and beſt of the Clergy refuſing it every-where. I will ſpare their Names who read it; but ſhould I mention them, it would make you, who know this City, a little heartily to deride <hi>H. C</hi>'s Account of them. And for the Surprize he talks of, the contrary of it is ſo true, that in <hi>Wood-ſtreet,</hi> where it was Read by one Dr. M. the People generally went out of the Church. This I tell you, that you may be provided for the future against ſuch an impudent Lyar, who, for Dread; can vouch and put about the Nation, the falſest of things.</p>
+            <closer>
+               <signed>I am Yours.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
